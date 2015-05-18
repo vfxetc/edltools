@@ -5,7 +5,7 @@ setup(
     name='edltools',
     version='0.1.0',
     description='xxx',
-    url='http://github.com/mikeboers/edltools',
+    url='http://github.com/sitg/edltools',
     
     packages=find_packages(exclude=['tests*']),
     
